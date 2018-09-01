@@ -1,0 +1,26 @@
+{
+
+"products": [
+{"id":1,"name":"Robinson","category":"Nkayi"},
+{"id":2,"name":"Jock","category":"Bertioga"},
+{"id":3,"name":"Harv","category":"Zyuzino"},
+{"id":4,"name":"Wilow","category":"Kozyatyn"},
+{"id":5,"name":"Ainslee","category":"Kamal"},
+{"id":6,"name":"Sashenka","category":"Teresópolis"},
+{"id":7,"name":"Adel","category":"Lengor"},
+{"id":8,"name":"Farlie","category":"Ciwidara"},
+{"id":9,"name":"Bond","category":"Freiburg im Breisgau"},
+{"id":10,"name":"Paxton","category":"Aguada de Pasajeros"},
+{"id":11,"name":"Christiana","category":"Fuxing"},
+{"id":12,"name":"Rowena","category":"Nishishinminato"},
+{"id":13,"name":"Chick","category":"Funes"},
+{"id":14,"name":"Rasia","category":"Ust’-Kut"},
+{"id":15,"name":"Myrta","category":"Xingcheng"},
+{"id":16,"name":"Tedra","category":"Songdong"},
+{"id":17,"name":"Margarette","category":"Abū Ghaush"},
+{"id":18,"name":"Caron","category":"Troyes"},
+{"id":19,"name":"Terrance","category":"Outeirô"},
+{"id":20,"name":"Allard","category":"Dongjiao"}
+]
+
+}
